@@ -1,0 +1,15 @@
+User_ID,Name_of_visited_place,Rating
+user1,Munnar,4
+user2,Chennai,5
+user2,Munnar,4
+user3,Munnar,5
+user3,Pune,4
+user4,Goa,5
+user1,Goa,4
+user5,Pune,4
+user4,Pune,5
+user5,Munnar,3
+user3,Delhi,3
+user5,Delhi,4
+user4,Gwalior,4
+user2,Gwalior,3
